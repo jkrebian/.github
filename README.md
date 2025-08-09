@@ -1,2 +1,2 @@
 # README.md
-[Github Profile](https://jkrebian.github.io/.github/profile/)
+[Github Profile](https://jkrebian.github.io/jkrebian/)
